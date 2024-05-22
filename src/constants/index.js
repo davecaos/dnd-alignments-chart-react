@@ -1,0 +1,1 @@
+export const TILE_NUMBER = 9;
