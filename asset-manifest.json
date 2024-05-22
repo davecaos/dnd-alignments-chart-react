@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dnd-alignments-chart-react/static/css/main.7167e3ab.css",
-    "main.js": "/dnd-alignments-chart-react/static/js/main.76205584.js",
+    "main.js": "/dnd-alignments-chart-react/static/js/main.d231ad5e.js",
     "static/js/453.55fd97a2.chunk.js": "/dnd-alignments-chart-react/static/js/453.55fd97a2.chunk.js",
     "index.html": "/dnd-alignments-chart-react/index.html",
     "main.7167e3ab.css.map": "/dnd-alignments-chart-react/static/css/main.7167e3ab.css.map",
-    "main.76205584.js.map": "/dnd-alignments-chart-react/static/js/main.76205584.js.map",
+    "main.d231ad5e.js.map": "/dnd-alignments-chart-react/static/js/main.d231ad5e.js.map",
     "453.55fd97a2.chunk.js.map": "/dnd-alignments-chart-react/static/js/453.55fd97a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7167e3ab.css",
-    "static/js/main.76205584.js"
+    "static/js/main.d231ad5e.js"
   ]
 }
