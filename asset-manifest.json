@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7167e3ab.css",
-    "main.js": "/static/js/main.b11e924a.js",
-    "static/js/453.55fd97a2.chunk.js": "/static/js/453.55fd97a2.chunk.js",
-    "index.html": "/index.html",
-    "main.7167e3ab.css.map": "/static/css/main.7167e3ab.css.map",
-    "main.b11e924a.js.map": "/static/js/main.b11e924a.js.map",
-    "453.55fd97a2.chunk.js.map": "/static/js/453.55fd97a2.chunk.js.map"
+    "main.css": "/dnd-alignments-chart-react/static/css/main.7167e3ab.css",
+    "main.js": "/dnd-alignments-chart-react/static/js/main.d8229398.js",
+    "static/js/453.55fd97a2.chunk.js": "/dnd-alignments-chart-react/static/js/453.55fd97a2.chunk.js",
+    "index.html": "/dnd-alignments-chart-react/index.html",
+    "main.7167e3ab.css.map": "/dnd-alignments-chart-react/static/css/main.7167e3ab.css.map",
+    "main.d8229398.js.map": "/dnd-alignments-chart-react/static/js/main.d8229398.js.map",
+    "453.55fd97a2.chunk.js.map": "/dnd-alignments-chart-react/static/js/453.55fd97a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7167e3ab.css",
-    "static/js/main.b11e924a.js"
+    "static/js/main.d8229398.js"
   ]
 }
