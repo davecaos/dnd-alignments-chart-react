@@ -1,8 +1,8 @@
 import React from "react";
-import { greenButton } from "../constants/colors";
+import { greenButton } from "../../constants/colors";
 import { useClipboard, useToast, Button } from "@chakra-ui/react";
 
-export default function URLCopierButton({ cards }) {
+const URLCopierButton = ({ cards }) => {
   const queryParams = cards
     .map((text, index) => (text ? `${index}=${text}&` : ""))
     .join("");
@@ -25,8 +25,10 @@ export default function URLCopierButton({ cards }) {
   };
 
   return (
-    <Button  bg={greenButton} onClick={handleCopy}ml={3}>
+    <Button bg={greenButton} onClick={handleCopy}ml={3}>
       Share editable link
     </Button>
   );
 }
+
+export default URLCopierButton;

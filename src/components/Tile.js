@@ -12,7 +12,7 @@ const CARD_TITLES = [
   "Neutral evil",
   "Chaotic evil"];
 
-const Tiles = ({ text, onChange, index }) => {
+const Tile = ({ text, onChange, index }) => {
   const isCentralTile = index == 1 || index == 4 || index == 7;
   return (
     <VStack>
@@ -49,4 +49,4 @@ const Tiles = ({ text, onChange, index }) => {
   );
 }
 
-export default Tiles;
+export default Tile;
